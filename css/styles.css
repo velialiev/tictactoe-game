@@ -1,0 +1,13 @@
+.game {
+    display: flex;
+    justify-content: flex-start;
+    flex-flow: row wrap;
+}
+div {
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Tahoma', sans-serif;
+    font-size: 25px;
+}
